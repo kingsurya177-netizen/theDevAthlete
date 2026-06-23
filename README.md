@@ -1,4 +1,3 @@
-# theDevAthlete
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Surya+E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Information+Technologist+%7C+Full+Stack+Developer+%7C+Data+Enthusiast&descAlignY=62&descSize=16)
